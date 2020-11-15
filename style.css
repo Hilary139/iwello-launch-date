@@ -17,7 +17,7 @@ html{
     text-align: center;
     font-size: large;
     margin-top: 20px;
-    background: whitesmoke;
+    background: white;
 }
 
 /* header */
@@ -33,6 +33,9 @@ h1{
     margin-bottom: 20px;
 }
 
+h2{
+    text-align: center;
+}
 p{
     font-size: 18px;
     margin-bottom: 10px;
@@ -49,6 +52,9 @@ p{
     background: rgb(226, 241, 15);
     color: rgb(29, 22, 22);
     margin-bottom: 20px;
+}
+b{
+    color: rgb(202, 190, 14);
 }
 a{
     text-decoration: none;
