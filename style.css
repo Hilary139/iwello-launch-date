@@ -103,10 +103,11 @@ a:hover{
 .p-test{
     font-size: 15px;
     text-transform: capitalize;
-    font-style: italic;
-
+   
 }
-
+b{
+    font-style: italic;
+}
 .p-name{
     font-size: 18px;
 }
